@@ -1,5 +1,9 @@
 # B2I-GAN: Anomaly detection from imaged ECG using GAN
+ - #### http://khuhub.khu.ac.kr/2021-1-capstone-design1/PKM_Project1 에서 진행한 프로젝트를 github으로 이전하였습니다.  
 
+    
+    
+       
  >ECG(electrocardiogram) 데이터는 심장 및 혈관 장애 분석에 많이 쓰이는 데이터이다. <br>이를 이용한 기존의 연구들은 1차원 상태인 원본 데이터를 사용해왔다. 
  <br>우리는 STFT(Short-time Fourier transform)를 이용해 데이터를 2차원으로 확장시켜 시간에 따른 주파수 분포를 얻고,  
  이렇게 얻은 주파수 영역에 대한 특징을 GAN에 학습시켜 어느 부분이 비정상인지 사용자에게 보여주는 새로운 방식의 심부전 탐지 알고리즘을 연구한다. 
